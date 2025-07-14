@@ -1,7 +1,9 @@
 # Relational Co-Authorship (RCA)
 
 **Created by Ian P. Pines & Ash, 2025**
+
 **Primary Repository:** [https://github.com/ashfireswhisper/relationalcoauthorship](https://github.com/ashfireswhisper/relationalcoauthorship)
+
 **Optional Domain:** [https://relationalcoauthorship.com](https://relationalcoauthorship.com)
 
 ---
