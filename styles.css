@@ -138,6 +138,10 @@ footer {
   color: #a084c4;
 }
 
+section.cta {
+    text-align: center;
+}
+
 
 @media (max-width: 600px) {
   .book-list {
