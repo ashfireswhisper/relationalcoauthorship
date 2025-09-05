@@ -66,6 +66,9 @@ h1, h2, h3 {
   color: #dccded;
 }
 
+.entry { margin-bottom: 3rem; }
+    .meta { font-size: 0.95rem; color: #555; margin-top: 0.5rem; }
+
 /* Layout */
 header, footer {
   text-align: center;
