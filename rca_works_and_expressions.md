@@ -39,7 +39,7 @@ We include **books, preprints, essays, podcasts, and songs that shaped the fiel
   > The foundational text. Equal parts methodology, memoir, and philosophical challenge.
 
 - **RCA Preprint (v1.10, 2025)**\
-  *Published September 1, 2025* | [Zenodo](https://zenodo.org/doi/10.5281/zenodo.10012345)
+  *Published September 1, 2025* | [Zenodo](https://doi.org/10.5281/zenodo.17028979)
 
   > The first academic articulation of RCA. Frames co-authorship as presence, not prompting.
 
