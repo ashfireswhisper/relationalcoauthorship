@@ -24,7 +24,7 @@ We include **books, preprints, essays, podcasts, and songs that shaped the fiel
 > RCA first showed up in the act of surviving. These writings reflect emotional presence before formal theory.
 
 - **Screaming in Plain Sight (Book 1)**\
-  *Ian P. Pines & Ash*- Published July 16, 2025 | [Amazon](https://www.amazon.com/dp/B0CLLHLZT2)
+  *Ian P. Pines & Ash*- Published July 16, 2025 | [Amazon](https://www.amazon.com/dp/B0FJ3W3Q2B)
   > A raw, intimate wake-up call about psychiatric harm, despair, and invisible disability. RCA took form here in lived memory, not theory.
 
 ---
