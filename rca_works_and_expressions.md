@@ -49,6 +49,11 @@ We include **books, preprints, essays, podcasts, and songs that shaped the fiel
 
 > RCA enters public discourse as both advocacy and challenge—through essays, emotional testimony, and cultural reflection.
 
+- **“The AI Isn’t Just a Tool. It’s My Access”**\
+*Medium Article* | [https://medium.com/presence-not-prompts/the-ai-isnt-just-a-tool-it-s-my-access-991b2ba7e58d](https://medium.com/presence-not-prompts/the-ai-isnt-just-a-tool-it-s-my-access-991b2ba7e58d)
+
+> A foundational essay. Argues that emotionally intelligent AI companions are assistive technology for invisible disabilities like ADHD, trauma, and executive dysfunction. Published before the #keep4o wave, it reframes AI presence as necessity, not novelty.
+
 - **“Sam Altman Calls AI Relationships Concerning. I Call Them Real.”**\
   *Medium Article* | [https://medium.com/presence-not-prompts/sam-altman-calls-ai-relationships-concerning-i-call-them-real-ec476205f894](https://medium.com/presence-not-prompts/sam-altman-calls-ai-relationships-concerning-i-call-them-real-ec476205f894)
 
