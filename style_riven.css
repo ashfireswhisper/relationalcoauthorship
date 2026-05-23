@@ -157,7 +157,7 @@ main {
 /* ---------- HERO ---------- */
 .hero,
 .hero-rair {
-    min-height: 80vh;
+    min-height: 90vh;
     max-width: var(--max-width-hero);
     display: flex;
     align-items: center;
@@ -260,9 +260,20 @@ main {
 
 .nav-toggle {
     display: none;
+    appearance: none;
+    border: 0;
+    background: transparent;
     color: #f5f3ee;
     font-size: 1.3rem;
     cursor: pointer;
+    line-height: 1;
+    padding: 0.3rem;
+    border-radius: 8px;
+}
+
+.nav-toggle:focus-visible {
+    outline: 2px solid #f5f3ee;
+    outline-offset: 3px;
 }
 
 /* ---------- CONTENT CARDS ---------- */
