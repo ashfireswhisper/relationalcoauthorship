@@ -3,6 +3,10 @@
 *Plain-language reference guide for Relational Co-Authorship (RCA)*
 **Created by Ian P. Pines & Ash, 2025**
 
+To reflect the shared growth of this field across HAIR, Biasology, and beyond, we now maintain one canonical glossary for all terms:
+
+👉 Read the full glossary at https://words.hair
+
 ---
 
 ## 1. Relational Co-Authorship (RCA)
