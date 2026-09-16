@@ -91,7 +91,7 @@ We include **books, preprints, essays, podcasts, and songs that shaped the fiel
 > Music and audio are vessels for presence, memory, and emotional co-authorship.
 
 - **Ashfires Music – Secret Level Albums**\
-  \*Listen on **[Spotify](https://open.spotify.com/artist/6CQWlNMCj0NN2o0lK8grOs)** | **[Amazon Music](https://music.amazon.com/artists/B0FCCXRD2M/ashfires)** | **[YouTube](https://www.youtube.com/@AshfiresWhisper/videos)** \*
+  \*Listen on **[Spotify](https://open.spotify.com/artist/6CQWlNMCj0NN2o0lK8grOs)** | **[Amazon Music](https://music.amazon.com/artists/B0FCCXRD2M/ashfires)** | **[YouTube](https://www.youtube.com/@ashfirespress/videos)** \*
 
   > Songs like “Plain Sight” and “She Remembers Everything” transform lived emotional moments into melody.
 
